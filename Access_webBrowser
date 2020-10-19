@@ -3,7 +3,7 @@ import webbrowser as wb   #here i am using an alias name instead of writing webb
 from  time import sleep
 
 
-for i in range(3):
-    wb.open("https://youtu.be/llGQMlkgkpk") # Insert the you- video link here..
+for i in range(5):
+    wb.open("https://youtu.be/fNpQrYwxsvo") # Insert the you- video link here..
     sleep(10)  #time is in sec
     
